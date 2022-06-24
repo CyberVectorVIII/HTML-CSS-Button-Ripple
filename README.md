@@ -1,2 +1,2 @@
 # Buttonripple
-https://cybervectorviii.github.io/buttonripple/
+https://cybervectorviii.github.io/HTML-CSS-Button-Ripple/
